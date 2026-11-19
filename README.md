@@ -44,4 +44,4 @@ Uzbek (native) · English (advanced)
 ### 📫 Contact
 
 - LinkedIn: [linkedin.com/in/mirjalol-k-a973b238a](https://www.linkedin.com/in/mirjalol-k-a973b238a/)
-- Email: [mrxurazboyevxurazboyev@gmail.com](mailto:mrxurazboyevxurazboyev@gmail.com)
+- Email: [mirjalolkhurazboev@gmail.com](mailto:mirjalolkhurazboev@gmail.com)
