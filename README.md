@@ -1,6 +1,8 @@
 # Hi, I'm Mirjalol Khurazboev 👋
 
-**Java Backend Developer** · BIT (Business IT) graduate student at Kookmin University · Based in Tashkent, Uzbekistan
+**Java Backend Developer** · Founder of Ovoz AI · Based in Tashkent, Uzbekistan
+
+🎓 Master of Engineering in Business Information Technology, Kookmin University (Dec 2026) · Bachelor's in Computer Software Engineering, TUIT
 
 I build backend systems with **Java and Spring Boot** — REST APIs, authentication, databases and Telegram bots.
 Currently looking for a **Java Backend Developer** role.
@@ -32,6 +34,7 @@ Currently looking for a **Java Backend Developer** role.
 ### 🌱 Currently
 
 - Building **Navbat**, a booking bot for barbershops in Uzbekistan
+- Founding **Ovoz AI**, an AI voice phone operator for businesses (Uzbek & Russian)
 - Deepening Spring Boot, system design and interview skills
 
 ### 🌐 Languages
@@ -40,4 +43,5 @@ Uzbek (native) · English (advanced)
 
 ### 📫 Contact
 
+- LinkedIn: [linkedin.com/in/mirjalol-k-a973b238a](https://www.linkedin.com/in/mirjalol-k-a973b238a/)
 - Email: [mrxurazboyevxurazboyev@gmail.com](mailto:mrxurazboyevxurazboyev@gmail.com)
